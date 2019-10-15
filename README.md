@@ -1,5 +1,5 @@
 # Dense-Optical-Flow
-Thanks to Adrian Rosebrock for the [tutorial](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
+Big thanks to Adrian Rosebrock for the [tutorial](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/).  
 The goal is to calculate dense optical flow for a video with moving cars using Gunnar Farneback algorithm.
 
 Initial video was taken from [here](https://www.pexels.com/video/cars-on-the-road-854745/)  
